@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Presentation</string>
+    <string name="change">change</string>
+    <string name="title">Title photo</string>
+    <string name="media">Introduction Media</string>
+    <string name="photo">photo1</string>
+    <string name="menu">HOME</string>
+    <string name="welcome">Welcome to Sjtu Wang\'s Lab!</string>
+</resources>
